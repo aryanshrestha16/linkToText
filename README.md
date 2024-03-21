@@ -6,3 +6,10 @@ Python 3.12.1
 
 ## APIs used: 
 OpenAI API & YouTubeTranscriptApi
+
+## Directions:
+
+### Install the OpenAI Python library
+```
+pip install --upgrade openai
+```
