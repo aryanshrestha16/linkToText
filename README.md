@@ -13,7 +13,7 @@ OpenAI API & YouTubeTranscriptApi
 ```
 pip install --upgrade openai
 ```
-### Set up your (OpenAI API key) [https://platform.openai.com/docs/quickstart?context=python]
+### Set up your [OpenAI API key](https://platform.openai.com/api-keys)
 #### MacOS
 1. Open Terminal: You can find it in the Applications folder or search for it using Spotlight (Command + Space).
 2. Edit Bash Profile: Use the command nano ~/.bash_profile or nano ~/.zshrc (for newer MacOS versions) to open the profile file in a text editor.
@@ -25,7 +25,7 @@ pip install --upgrade openai
 5. Load Your Profile: Use the command source ~/.bash_profile or source ~/.zshrc to load the updated profile.
 6. Verification: Verify the setup by typing echo $OPENAI_API_KEY in the terminal. It should display your API key.
 
-### Set up Youtube-transcript-API (Developed by @jdepoix) [https://github.com/jdepoix/youtube-transcript-api]
+### Set up Youtube-transcript-API [Developed by @jdepoix](https://github.com/jdepoix/youtube-transcript-api)
 ```
 pip install youtube-transcript-api
 ```
