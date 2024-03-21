@@ -25,7 +25,8 @@ pip install --upgrade openai
 5. Load Your Profile: Use the command source ~/.bash_profile or source ~/.zshrc to load the updated profile.
 6. Verification: Verify the setup by typing echo $OPENAI_API_KEY in the terminal. It should display your API key.
 
-### Set up Youtube-transcript-API [Developed by @jdepoix](https://github.com/jdepoix/youtube-transcript-api)
+### Set up Youtube-transcript-API 
+[Developed by @jdepoix](https://github.com/jdepoix/youtube-transcript-api)
 ```
 pip install youtube-transcript-api
 ```
